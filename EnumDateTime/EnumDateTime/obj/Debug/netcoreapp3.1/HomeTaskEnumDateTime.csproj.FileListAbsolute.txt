@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.exe
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.deps.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.dll
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\bin\Debug\netcoreapp3.1\HomeTaskEnumDateTime.pdb
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.dll
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.pdb
+C:\Users\Khalid Suleymanov\source\repos\HomeTaskEnumDateTime\HomeTaskEnumDateTime\obj\Debug\netcoreapp3.1\HomeTaskEnumDateTime.genruntimeconfig.cache
